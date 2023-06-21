@@ -1,11 +1,10 @@
 {
-  "name": "react_geideapay",
+  "name": "test_pay_lib",
   "repository": "git://github.com/ranshine/TestPay.git",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "ranshine:registry":"https://npm.pkg.github.com"
   },
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
